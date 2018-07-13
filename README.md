@@ -1,0 +1,2 @@
+# learn_python3_with_liaoxuefeng
+## 本项目主要为使用廖雪峰的Python3教程学习Python时做的一些笔记和代码
